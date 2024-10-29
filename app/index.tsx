@@ -68,7 +68,7 @@ export default function Index() {
       </Text>
       <View style={styles.card}>
         <Text style={[styles.cardText, { fontFamily: "Poppins" }]}>
-          Keep it up! Complete your tasks. You are almost there!
+          Keep it up! Complete your tasks. You are there!
         </Text>
       </View>
       <View style={styles.buttonContainer}>
